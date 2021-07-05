@@ -1,0 +1,5 @@
+2021-06-16 09:39:01 [    INFO] file_cache is only supported with oauth2client<4.0.0 (__init__.py:49)
+2021-06-16 09:39:01 [   DEBUG] URL being requested: GET https://classroom.googleapis.com/v1/courses/360069631764/students?pageSize=10&alt=json (discovery.py:1159)
+2021-06-16 09:39:03 [    INFO] list the students successfully (methods.py:67)
+2021-06-16 09:39:03 [    INFO] all ids are listed and colleted in a variable called course_ids  (test_google_classroom.py:15)
+2021-06-16 09:39:03 [    INFO] userId  is collected and appended in list (test_google_classroom.py:20)
